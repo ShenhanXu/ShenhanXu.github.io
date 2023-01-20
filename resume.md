@@ -29,6 +29,6 @@ Student(2019-2023)
 - tried law class
 - went to Chile for travel
 
-<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="src/assets/img/profile.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 University of Washington: uw.edu
