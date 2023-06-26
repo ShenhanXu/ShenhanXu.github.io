@@ -1,5 +1,5 @@
 # Iron Man
-![Iron man]](img/profile.jpg)
+![Iron man](img/OIP.jpg)
 
 **Iron Man** is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby. 
 
