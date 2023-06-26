@@ -1,5 +1,5 @@
 # Iron Man
-![](assets/img/profile.jpg)
+![Iron man]](assets/img/profile.jpg)
 
 **Iron Man** is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby. 
 
@@ -19,11 +19,11 @@ Iron Man's armor has been equipped with a number of different AI systems over th
 Iron Man has been a member of the superhero team the Avengers for most of the character's existence. Beyond comics, the character has been adapted into animated TV shows, video games, and a highly successful live-action film series where he is portrayed by Robert Downey Jr.
 
 ## See also
-- [Avengers](url_to_avengers_wiki_page)
-- [Tony Stark](url_to_tony_stark_wiki_page)
-- [Marvel Comics](url_to_marvel_comics_wiki_page)
+- [Avengers](https://www.imdb.com/title/tt0848228/)
+- [Tony Stark](https://marvelcinematicuniverse.fandom.com/wiki/Iron_Man)
+- [Marvel Comics](https://www.marvel.com/comics)
 
 ## References
-1. [Marvel Database: Iron Man](https://www.marveldatabase.com/Iron_Man)
+1. [Marvel Database: Iron Man](https://marvel.fandom.com/wiki/Iron_Man)
 2. Lee, Stan (1963). *Tales of Suspense* #39. Marvel Comics.
 3. [Iron Man Film Series](https://www.imdb.com/title/tt0371746/)
